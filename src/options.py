@@ -168,6 +168,8 @@ class Options(object):
                                  help='Normalization layer to be used internally in transformer encoder')
         self.parser.add_argument('--reg_size', type=int, default=8,
                                  help='reg_size')
+        self.parser.add_argument('--gpt_layers', type=int, default=3,
+                                 help='gpt_layers')
 
     def parse(self):
 

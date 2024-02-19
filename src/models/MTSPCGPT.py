@@ -23,7 +23,7 @@ class MTSPCGPT(nn.Module):
         self.max_len = data.max_seq_len
         self.patch_size = config['patch_size']
         self.stride = config['stride']
-        self.gpt_layers = 6
+        self.gpt_layers = config['gpt_layers']
         self.feat_dim = data.feature_df.shape[1]
         self.num_classes = len(data.class_names)
         self.d_model = config['d_model']
