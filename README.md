@@ -1,5 +1,7 @@
 # MTSPC-GPT
 ## Finetuning Pretrained GPT-2 for Dutch TTF Gas Imbalance Prediction: A Mixed Time Series Prediction and Classification Approach
+[FULL THESIS](thesis_King.pdf)
+
 
 ## Abstract
 While Large Language Models (LLM) have achieved significant success in
