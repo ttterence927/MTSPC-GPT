@@ -2,7 +2,7 @@
 ## Finetuning Pretrained GPT-2 for Dutch TTF Gas Imbalance Prediction: A Mixed Time Series Prediction and Classification Approach
 [FULL THESIS](thesis_King.pdf)
 
-![Feature Importance](feature.PNG)
+![Feature Importance](feature.png)
 
 
 # Top 50 Features with Short Explanations, SBS means the Gas Balancing Signal
